@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_aes_roundtrip
+cmds:
+- cmd: /out/fuzz_aes_roundtrip
